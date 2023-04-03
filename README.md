@@ -1,0 +1,1 @@
+jest task on hexlet platform
